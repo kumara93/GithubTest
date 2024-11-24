@@ -6,10 +6,8 @@
 
 4th Try to merging 2 different branches to single branch
 
-<<<<<<< Updated upstream
 5th Git Hub integration check
 
 6th End of script
-=======
-5th Git Hub integration check
->>>>>>> Stashed changes
+
+7 check all changes reflected
